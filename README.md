@@ -8,7 +8,7 @@ The latest report is mailed to the team members using using GMAIL SMTP.
 
 ## About Me ##
 Hi My name is Vipul Nandan. I have 8.5 years of experience in Automation Testing with Devops. My Skillset includes UI Automation with Selenium Webdriver, Playwright and for API Testing I use Rest Assured and Postman.
-You can connect with me over : ![LinkedIn](https://www.linkedin.com/in/vipul-n-84a85756/)
+You can connect with me over : https://www.linkedin.com/in/vipul-n-84a85756/
 
 ## Testing Coverage ##
 1. Happy Flow Testing
